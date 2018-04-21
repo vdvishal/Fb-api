@@ -1,0 +1,76 @@
+body {
+    word-break: break-all;
+}
+
+#dataSection {
+    display: none;
+}
+.userDetails{
+    border:2px solid #ddd;border-radius: 0.5em;
+}
+
+.coverHeight {
+    max-height: 300px;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.userName {
+    font-size: 3vw;
+}
+
+.userDetails{
+  background-color: rgba(167, 173, 246,0.5)
+}
+
+.profileHeight {
+    border: 0.5vw solid white;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px silver;
+}
+
+.rowStyle {
+    border-bottom: 1px solid #ddd;
+    margin-top: 1em !important;
+}
+
+.rowStyle div {
+    padding: 1em;
+}
+
+
+.design{
+  background-color: #4267B2!important;
+  font-weight: bold;
+}
+
+.nav-item{
+  color: white;
+  font-style: normal;
+}
+
+#name{
+  font-size: 2em;
+  color: white;
+  font-weight: bold;
+  line-height: 25vw;
+}
+
+.hide{
+  display: none;
+}
+
+#post1{
+  font-weight: bold;
+  line-height: 30px;
+  border: 2px solid #4267B2;
+  margin-bottom: 75px
+}
+
+#post2{
+  font-weight: bold;
+  line-height: 50px;
+  border: 2px solid #4267B2;
+}
